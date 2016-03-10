@@ -68,7 +68,6 @@
         </config-file>
 
 		<source-file src="src/android/AppodealPlugin.java" target-dir="src/com/appodeal/plugin" />
-		<source-file src="libs/android-support-v4.jar" target-dir="libs" />
 		<source-file src="libs/appodeal-1.14.6.jar" target-dir="libs" />
 		<source-file src="libs/inmobi-5.2.0.jar" target-dir="libs" />
 		<source-file src="libs/yandex-metrica-2.30.jar" target-dir="libs" />
